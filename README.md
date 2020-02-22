@@ -19,7 +19,7 @@ Built by
 
 ## Installing
 1. clone the project
->git clone https://github.com/TimMKChang/AC_S3_account_login_1.git
+>git clone https://github.com/TimMKChang/AC_S3_account_login_2_cookie.git
 2. install packages
 >npm install
 3. run the server
